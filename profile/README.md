@@ -6,8 +6,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Repos-3-blue" alt="Repos">
-  <img src="https://img.shields.io/badge/Stars-0-yellow" alt="Stars">
-  <img src="https://img.shields.io/badge/Forks-0-orange" alt="Forks">
+  <img src="https://img.shields.io/badge/Source%20Stars-153.5k-yellow" alt="Source Stars">
+  <img src="https://img.shields.io/badge/Source%20Forks-25.7k-orange" alt="Source Forks">
   <img src="https://img.shields.io/badge/Primary%20Focus-Security%20%26%20AI%20Safety-green" alt="Focus">
 </p>
 
@@ -32,30 +32,30 @@ Primary focus: **Security & AI Safety**. Top languages: 🟨 JavaScript, 💎 Ru
 
 ## ⭐ Featured Repositories
 
-| Repository | Description | Language | Stars | Updated |
+| Repository | Description | Language | Source Stars | Updated |
 |---|---|---|---|---|
-| [metasploit-framework](https://github.com/security-stuffs/metasploit-framework) | Metasploit Framework | `💎 Ruby` | ⭐ 0 | 2026-10-14 |
+| [metasploit-framework](https://github.com/security-stuffs/metasploit-framework) | Metasploit Framework | `💎 Ruby` | ⭐ 39.2k | 2026-10-14 |
 
 ## 📦 All Repositories
 
 ### 🎨 Frontend & UI
 
-| Repository | Description | Language | Stars | Updated |
+| Repository | Description | Language | Source Stars | Updated |
 |---|---|---|---|---|
-| [svelte](https://github.com/security-stuffs/svelte) | web development for the rest of us | `🟨 JavaScript` | ⭐ 0 | 2026-10-14 |
+| [svelte](https://github.com/security-stuffs/svelte) | web development for the rest of us | `🟨 JavaScript` | ⭐ 88.4k | 2026-10-14 |
 
 ### 🛡️ Security & AI Safety
 
-| Repository | Description | Language | Stars | Updated |
+| Repository | Description | Language | Source Stars | Updated |
 |---|---|---|---|---|
-| [metasploit-framework](https://github.com/security-stuffs/metasploit-framework) | Metasploit Framework | `💎 Ruby` | ⭐ 0 | 2026-10-14 |
+| [metasploit-framework](https://github.com/security-stuffs/metasploit-framework) | Metasploit Framework | `💎 Ruby` | ⭐ 39.2k | 2026-10-14 |
 
 ### 🤖 AI Agents & LLM Infrastructure
 
-| Repository | Description | Language | Stars | Updated |
+| Repository | Description | Language | Source Stars | Updated |
 |---|---|---|---|---|
-| [promptfoo](https://github.com/security-stuffs/promptfoo) | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for ... | `🔷 TypeScript` | ⭐ 0 | 2026-10-14 |
+| [promptfoo](https://github.com/security-stuffs/promptfoo) | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for ... | `🔷 TypeScript` | ⭐ 26.0k | 2026-10-14 |
 
 ---
 
-*Generated for security-stuffs. Maintained by [nomadicwhaleai](https://github.com/nomadicwhaleai).*
+*Generated for security-stuffs. Source stars reflect upstream popularity for forks. Maintained by [nomadicwhaleai](https://github.com/nomadicwhaleai).*
