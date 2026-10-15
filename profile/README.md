@@ -1,25 +1,61 @@
-# security-stuffs
+<!-- security-stuffs Organization Profile README -->
 
-3 repositories tracked by nomadicwhaleai.
+<h1 align="center">🛡️ security-stuffs</h1>
 
-## Categories
+<p align="center"><em>AI safety, red teaming, vulnerability scanning, and security tooling.</em></p>
 
-| Category | Count |
-|---|---|
-| Frontend & UI | 1 |
-| Security & AI Safety | 1 |
-| AI Agents & LLM Infrastructure | 1 |
+<p align="center">
+  <img src="https://img.shields.io/badge/Repos-3-blue" alt="Repos">
+  <img src="https://img.shields.io/badge/Stars-0-yellow" alt="Stars">
+  <img src="https://img.shields.io/badge/Forks-0-orange" alt="Forks">
+  <img src="https://img.shields.io/badge/Primary%20Focus-Security%20%26%20AI%20Safety-green" alt="Focus">
+</p>
 
-## Repositories
+## 🧭 About
 
-### Frontend & UI
+**security-stuffs** curates and maintains **3** open-source repositories.
+Primary focus: **Security & AI Safety**. Top languages: 🟨 JavaScript, 💎 Ruby, 🔷 TypeScript.
 
-- **[svelte](https://github.com/security-stuffs/svelte)** `Unknown` — web development for the rest of us
+## 📊 Repository Landscape
 
-### Security & AI Safety
+| Category | Count | Share |
+|---|---|---|
+| 🎨 Frontend & UI | 1 | ███░░░░░░░ 33% |
+| 🛡️ Security & AI Safety | 1 | ███░░░░░░░ 33% |
+| 🤖 AI Agents & LLM Infrastructure | 1 | ███░░░░░░░ 33% |
 
-- **[metasploit-framework](https://github.com/security-stuffs/metasploit-framework)** `Unknown` — Metasploit Framework
+## 📑 Categories
 
-### AI Agents & LLM Infrastructure
+- [🎨 Frontend & UI](#frontend-and-ui)
+- [🛡️ Security & AI Safety](#security-and-ai-safety)
+- [🤖 AI Agents & LLM Infrastructure](#ai-agents-and-llm-infrastructure)
 
-- **[promptfoo](https://github.com/security-stuffs/promptfoo)** `Unknown` — Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.
+## ⭐ Featured Repositories
+
+| Repository | Description | Language | Stars | Updated |
+|---|---|---|---|---|
+| [metasploit-framework](https://github.com/security-stuffs/metasploit-framework) | Metasploit Framework | `💎 Ruby` | ⭐ 0 | 2026-10-14 |
+
+## 📦 All Repositories
+
+### 🎨 Frontend & UI
+
+| Repository | Description | Language | Stars | Updated |
+|---|---|---|---|---|
+| [svelte](https://github.com/security-stuffs/svelte) | web development for the rest of us | `🟨 JavaScript` | ⭐ 0 | 2026-10-14 |
+
+### 🛡️ Security & AI Safety
+
+| Repository | Description | Language | Stars | Updated |
+|---|---|---|---|---|
+| [metasploit-framework](https://github.com/security-stuffs/metasploit-framework) | Metasploit Framework | `💎 Ruby` | ⭐ 0 | 2026-10-14 |
+
+### 🤖 AI Agents & LLM Infrastructure
+
+| Repository | Description | Language | Stars | Updated |
+|---|---|---|---|---|
+| [promptfoo](https://github.com/security-stuffs/promptfoo) | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for ... | `🔷 TypeScript` | ⭐ 0 | 2026-10-14 |
+
+---
+
+*Generated for security-stuffs. Maintained by [nomadicwhaleai](https://github.com/nomadicwhaleai).*
